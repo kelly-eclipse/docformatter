@@ -25,6 +25,7 @@ Additional contributions by (sorted by name)
 - Casey Korver <84342833+korverdev@users.noreply.github.com>
 - Daniel Goldman <danielgoldman4@gmail.com>
 - Doyle Rowland <doyle.rowland@reliaqual.com>
+- Eljees <57435526+Eljees@users.noreply.github.com>
 - Elliot Ford <elliot.ford@astrazeneca.com>
 - Eric Hutton <mcflugen@users.noreply.github.com>
 - Filip Kucharczyk <filip.m.kucharczyk@gmail.com>
